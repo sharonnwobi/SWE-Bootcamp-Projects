@@ -1,0 +1,1 @@
+A requirements.txt file contains a list of all packages or libraries required for a project that can all be installed with the file
