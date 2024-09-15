@@ -10,6 +10,7 @@
 # 1ST SECTION: API & JSON DATA, INBUILT FUNCTIONS, ADDITIONAL MODULES, LISTS AND DICTIONARIES.
 
 # IMPORTING MODULES REQUESTS(FOR API GET REQUESTS) AND CSV(FOR WRITING, READING AND APPENDING FILES)
+# For this progmam we will use a package called requests. Please type the following "pip install requests" (without the quotation marks)  directly into your terminal to initiate the installation.
 from csv import DictWriter
 import requests
 import csv
