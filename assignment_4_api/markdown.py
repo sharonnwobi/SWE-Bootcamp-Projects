@@ -1,7 +1,7 @@
 # Hello and welcome to my 4th CFG Project.
 # The following scripts will provide some guidance to using the api I have created.
 
-# Firstly, open and run the sql script names 'assignment_4_sql' in MYSQL Workbench.
+# Firstly, open and run the sql script names 'assignment_4_sql_script' in MYSQL Workbench.
 # Now, you should have a database in your schema named 'theatre'
 # Next, open  the 'config1.py' and fill in your MYSQL details.
 
