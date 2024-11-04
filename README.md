@@ -1,5 +1,5 @@
 # ASSIGNMENT 1 
-My name is Sharon Nwobi and this is my first CFG assigmnemt! This is my first time using git dash, github, repositories and pull requests!  I'm very excited to learn more about data engineering :)  
+My name is Sharon Nwobi and this is my first SWE assigmnemt! This is my first time using git dash, github, repositories and pull requests!  I'm very excited to learn more about data engineering :)  
 A fun fact about me is that i can wiggle my ears.  
 This is my first CFG Project, henceforth i cannot give a brief on my past work :( 
 In the meantime, let me show you some new formatting syntax i have learnt!
