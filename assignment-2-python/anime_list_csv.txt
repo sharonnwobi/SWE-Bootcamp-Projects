@@ -1,0 +1,6 @@
+TITLE,URL,RANK,SCORE,FAVOURITES
+Naruto,https://myanimelist.net/anime/20/Naruto,639,8,80697
+JoJo's Bizarre Adventure (2012),https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV,824,7.88,37480
+One Piece: The Movie,https://myanimelist.net/anime/459/One_Piece_Movie_01,3834,7.09,408
+,https://myanimelist.net/anime/37521/Vinland_Saga,44,8.76,49437
+Steins;Gate,https://myanimelist.net/anime/9253/Steins_Gate,3,9.07,191093
